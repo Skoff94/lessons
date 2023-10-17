@@ -1,0 +1,7 @@
+C:\Users\dub_i\source\repos\урок1\урок 3\obj\Debug\урок 3.csproj.AssemblyReference.cache
+C:\Users\dub_i\source\repos\урок1\урок 3\obj\Debug\урок 3.csproj.CoreCompileInputs.cache
+C:\Users\dub_i\source\repos\урок1\урок 3\bin\Debug\урок 3.exe.config
+C:\Users\dub_i\source\repos\урок1\урок 3\bin\Debug\урок 3.exe
+C:\Users\dub_i\source\repos\урок1\урок 3\bin\Debug\урок 3.pdb
+C:\Users\dub_i\source\repos\урок1\урок 3\obj\Debug\урок 3.exe
+C:\Users\dub_i\source\repos\урок1\урок 3\obj\Debug\урок 3.pdb

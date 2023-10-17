@@ -1,0 +1,7 @@
+C:\Users\dub_i\source\repos\урок1\урок2\bin\Debug\урок2.exe.config
+C:\Users\dub_i\source\repos\урок1\урок2\bin\Debug\урок2.exe
+C:\Users\dub_i\source\repos\урок1\урок2\bin\Debug\урок2.pdb
+C:\Users\dub_i\source\repos\урок1\урок2\obj\Debug\урок2.csproj.AssemblyReference.cache
+C:\Users\dub_i\source\repos\урок1\урок2\obj\Debug\урок2.csproj.CoreCompileInputs.cache
+C:\Users\dub_i\source\repos\урок1\урок2\obj\Debug\урок2.exe
+C:\Users\dub_i\source\repos\урок1\урок2\obj\Debug\урок2.pdb
